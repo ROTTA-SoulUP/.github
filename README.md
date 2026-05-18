@@ -18,7 +18,7 @@ Aplicativo de mobilidade urbana desenvolvido para o <b>Challenge FIAP + SoulUp</
 
 <div align="center">
 
-# 🚀 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 <br>
 
@@ -88,7 +88,7 @@ Aplicativo de mobilidade urbana desenvolvido para o <b>Challenge FIAP + SoulUp</
 
 <div align="center">
 
-# 📱 Sobre o Projeto
+# Sobre o Projeto
 
 O <b>Rotta</b> é uma plataforma focada em incentivar o uso do transporte público através de recompensas obtidas por interações dentro do aplicativo.
 
