@@ -231,54 +231,6 @@ Quanto maior a constância, maior a evolução da Capi, com novas roupas, acess�
 
 <div align="center">
 
-### EVOLUÇÃO DA CAPI
-
-<table>
-<tr>
-
-<td align="center">
-
-<b>NÍVEL 1</b><br>
-Iniciante<br>
-1 dia
-
-</td>
-
-<td align="center">
-
-<b>NÍVEL 2</b><br>
-Comprometido<br>
-3 dias
-
-</td>
-
-<td align="center">
-
-<b>NÍVEL 3</b><br>
-Inspirador<br>
-7 dias
-
-</td>
-
-<td align="center">
-
-<b>NÍVEL 4</b><br>
-Transformador<br>
-15 dias
-
-</td>
-
-<td align="center">
-
-<b>NÍVEL 5</b><br>
-Lenda da Mobilidade<br>
-30 dias
-
-</td>
-
-</tr>
-</table>
-
 <img src="../assets/5d5caf6f-6ff3-4437-bf97-582aeafa5dd4.png" width="100%" />
 
 <br>
