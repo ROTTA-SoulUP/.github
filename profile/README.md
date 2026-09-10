@@ -313,7 +313,7 @@ Realiza ações, recebe pontos e utiliza os créditos na própria mobilidade.
 
 <div align="center">
 
-# TECNOLOGIAS UTILIZADAS
+# TECNOLOGIAS UTILIZADAS (PRINCIPAIS)
 
 <br>
 
